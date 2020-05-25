@@ -22,6 +22,7 @@ This module is meant to be connected after power switch (power switch can be on 
 
 
 You may want to use Dupont connectors, so Arduino can be easily removed for programming (if needed).
+![Module Photo](autopoweroff-module.jpg)
 
 ## Configuration
 Open the included arduino sketch (LED-Lamp-Auto-Poweroff.ino) in Arduino IDE and edit the automatic timeout (power-off) to desired value:
